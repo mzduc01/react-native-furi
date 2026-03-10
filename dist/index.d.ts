@@ -7,7 +7,6 @@ type Value = {
 interface FuriProps {
     value: Value[];
     style?: StyleProp<any>;
-    textStyle?: StyleProp<any>;
     valueStyle?: StyleProp<any>;
     furiStyle?: StyleProp<any>;
     size?: number;
